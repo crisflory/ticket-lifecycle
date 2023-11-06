@@ -13,7 +13,7 @@ Configure help topics: "New Equipment", "Mobile online banking is down" and addi
 
 ![image](https://github.com/crisflory/ticket-lifecycle/assets/147748310/f1e949ad-0610-4c5b-ac76-ed13b49d7a33)
 
-Part 4 (Tickets and Ticket Lifecycle)
+Tickets and Ticket Lifecycle
 
 ![image](https://github.com/crisflory/ticket-lifecycle/assets/147748310/e14d3365-d460-482b-b22d-d23b8ff42787)
 
