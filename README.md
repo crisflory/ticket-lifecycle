@@ -17,9 +17,7 @@ Tickets and Ticket Lifecycle
 
 ![image](https://github.com/crisflory/ticket-lifecycle/assets/147748310/e14d3365-d460-482b-b22d-d23b8ff42787)
 
-Practice creating, triaging, and solving tickets. For guidance on handling multiple tickets, consider watching instructional videos. Here are some ticket examples:
-
-
+ Here are some ticket examples:
 
 Sev-A (1 hour, 24/7) [entire mobile/online banking system is down] -> Assign to SysAdmins.
 Sev-B (4 hours, 24/7) [accounting department needs Adobe upgrade, broken].
